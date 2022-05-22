@@ -11,3 +11,5 @@ Esta es la estructura del proyecto :
 
 El directorio `data` no se guarda en este repo por el tamaño del fichero, superior al límite que marca github para subir ficheros.
 De todas formas puede bajar los datos fácilmente con el código del apartado **"Bajamos los datos desde la API del Ayuntamiento"**
+
+La información bajada se formatea en un dataframe [`panda`](https://pandas.pydata.org). Los gráficos se generan con las librerias de [`matplotlib`](https://matplotlib.org/stable/) y [`seaborn`](https://seaborn.pydata.org/#)
