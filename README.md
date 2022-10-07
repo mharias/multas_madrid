@@ -1,4 +1,4 @@
-# Multas publlicadas por el Ayuntamiento de Madrid, ejemplos de visualización de datos 
+# Multas publicadas por el Ayuntamiento de Madrid, ejemplos de visualización de datos 
 repositorio de código, datos y código de análisis de multas publicadas por Ayuntamiento Madrid
 
 Esta es la estructura del proyecto : 
